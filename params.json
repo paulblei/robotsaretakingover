@@ -1,6 +1,0 @@
-{
-  "name": "Robotsaretakingover",
-  "tagline": "",
-  "body": "<div id=\"_giphy_tv\"></div>\r\n<script>\r\n    var _giphy_tv_tag=\"robots\";\r\n    var g = document.createElement('script'); g.type = 'text/javascript'; g.async = true;\r\n    g.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'giphy.com/static/js/widgets/tv.js';\r\n    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(g, s);\r\n</script>",
-  "note": "Don't delete this file! It's used internally to help with page regeneration."
-}
